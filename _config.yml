@@ -19,3 +19,7 @@ minima:
     - title: GitHub
       icon: github
       url: https://github.com/shaenxxx-commits/nova-cortex-lab
+
+kramdown:
+  input: GFM
+  hard_wrap: false
