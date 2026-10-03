@@ -8,10 +8,10 @@ permalink: /transcript-control/
 **Status:** RESULT + OPEN
 **Layer:** POINT (Layer 0)
 **Date:** 2026-09-30
-**Primary source:** `experiments/019-interaction/trace.md`
+**Primary source:** [`experiments/019-interaction/trace.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/experiments/019-interaction/trace.md)
 (runs Transcript B, Transcript C)
 **Related documents:**
-`meta/method-interaction-addendum.md` §4,
+[`meta/method-interaction-addendum.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/meta/method-interaction-addendum.md) §4,
 [019-interaction](/019-interaction/)
 **Russian version:** [GitHub](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/corpus/ru/transcript-control.md)
 
@@ -130,8 +130,8 @@ for 020.
 
 ## Primary sources
 
-- `experiments/019-interaction/trace.md` —
+- [`experiments/019-interaction/trace.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/experiments/019-interaction/trace.md) —
   runs `Transcript B — Sakana`, `Transcript C — Grok`
-- `meta/method-interaction-addendum.md` §4 —
+- [`meta/method-interaction-addendum.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/meta/method-interaction-addendum.md) §4 —
   definition of transcript-control and status after 019
 - [019-interaction](/019-interaction/) — general POINT on 019

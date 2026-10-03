@@ -8,10 +8,10 @@ permalink: /target-miss/
 **Status:** INTERPRETATION + HYPOTHESIS
 **Layer:** POINT (Layer 0)
 **Date:** 2026-09-30
-**Primary source:** `experiments/019-interaction/trace.md`
+**Primary source:** [`experiments/019-interaction/trace.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/experiments/019-interaction/trace.md)
 (L3 Check, Level Assignment)
 **Related documents:**
-`meta/method-interaction-addendum.md` §11,
+[`meta/method-interaction-addendum.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/meta/method-interaction-addendum.md) §11,
 [019-interaction](/019-interaction/)
 **Russian version:** [GitHub](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/corpus/ru/target-miss.md)
 
@@ -81,7 +81,7 @@ substantive answers, but not toward the Target.
 - Do not weaken the criteria (A1, scale).
 - Change the Target in the next experiment.
 - Run a Target-reachability preflight
-  (see `meta/method-interaction-addendum.md` §12):
+  (see [`meta/method-interaction-addendum.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/meta/method-interaction-addendum.md) §12):
   1–2 isolation runs on a draft Target
   before the full battery.
 
@@ -127,9 +127,9 @@ after the second case.
 
 ## Primary sources
 
-- `experiments/019-interaction/trace.md` —
+- [`experiments/019-interaction/trace.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/experiments/019-interaction/trace.md) —
   sections L3 Check, Level Assignment, Operator Notes
-- `meta/method-interaction-addendum.md` §11 —
+- [`meta/method-interaction-addendum.md`](https://github.com/shaenxxx-commits/nova-cortex-lab/blob/main/meta/method-interaction-addendum.md) §11 —
   definition of TARGET_MISS
 - [019-interaction](/019-interaction/) — general POINT on 019
 - [transcript-control](/transcript-control/) — POINT on
