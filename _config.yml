@@ -1,0 +1,21 @@
+title: NOVA CORTEX LAB — Corpus
+description: Research on interaction effects between independent LLM agents. Experiments, methodology, open questions.
+author: NOVA CORTEX LAB
+email: maia.systems@proton.me
+
+theme: minima
+
+github_username: shaenxxx-commits
+
+url: https://shaenxxx-commits.github.io
+baseurl: ""
+
+markdown: kramdown
+
+# Не показывать стандартный footer minima полностью
+minima:
+  skin: auto
+  social:
+    - title: GitHub
+      icon: github
+      url: https://github.com/shaenxxx-commits/nova-cortex-lab
