@@ -1,6 +1,5 @@
 ---
 layout: home
-title: NOVA CORTEX LAB — Corpus
 ---
 
 Publication layer for **NOVA CORTEX LAB** — a research
