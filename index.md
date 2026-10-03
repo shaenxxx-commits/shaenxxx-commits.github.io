@@ -25,14 +25,25 @@ Source repository:
 **Corpus snapshot: 019 only.** Earlier experiments
 (001–018) live in the LAB repository.
 
-## Entry point
+## Entry points
+
+### First positive result
+
+**Experiment 020 — Named divergence.**
+R appeared in dialogue, not in isolation or transcript.
+L3 / INTERACTION-ONLY, n=1, replication pending.
+
+- [020 — Named divergence](/020-named-divergence/) —
+  the first positive H3 test.
+
+### Earlier: null result
 
 **Experiment 019 — first designed test of Interaction > Node.**
 A null result on the Target, with three methodological
 findings.
 
 - [019 — Trajectory](/019-trajectory/) — the SEQUENCE that
-  links the three POINTs below. **Start here.**
+  links the three POINTs below.
 - [019 — First Designed Test](/019-interaction/) — the
   main experiment.
 - [Transcript-control](/transcript-control/) — a
