@@ -23,3 +23,5 @@ minima:
 kramdown:
   input: GFM
   hard_wrap: false
+
+header_pages: []
