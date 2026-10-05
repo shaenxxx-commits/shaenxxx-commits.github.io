@@ -27,6 +27,15 @@ Source repository:
 
 ## Entry points
 
+### Latest
+
+**Experiment 021 — Named divergence, second attempt.**
+The first result did not replicate. R appeared in the
+transcript this time, not only in dialogue.
+
+- [021 — Named divergence](/021-named-divergence/) —
+  second Named divergence. L2 / preliminary.
+
 ### First positive result
 
 **Experiment 020 — Named divergence.**
